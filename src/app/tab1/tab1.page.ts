@@ -22,7 +22,7 @@ export class Tab1Page {
       imagem: '../../assets/img/ztomorrowland-tml.jpg',
       local: ['Maputo', 'Campo de Maxaquene'],
       disponibilidade: '57%',
-      //page: '/tomorrow-land'
+      page: '/tomorrowland'
 
     },
 
@@ -33,7 +33,7 @@ export class Tab1Page {
       imagem: '../../assets/img/unnamed.jpg',
       local: ['Maputo', 'Estadio da Machava'],
       disponibilidade: '14%',
-      //page: '/kings-of-house'
+      page: '/kings-of-house'
     },
 
     {
@@ -43,7 +43,7 @@ export class Tab1Page {
       imagem: '../../assets/img/gospel-night-church-event-square-video-design-template-1db02f056777e2177ded64b1f3216544_screen.jpg',
       local: ['Maputo', 'S.C Joaquim Chissano'],
       disponibilidade: '0%',
-      //page: '/a-salvacao'
+      page: '/a-salvacao'
     },
 
     {
@@ -53,7 +53,7 @@ export class Tab1Page {
       imagem: '../../assets/img/artworks-000087594113-0dkd0j-t500x500.jpg',
       local: ['Matola', 'Discoteca Bate Papo'],
       disponibilidade: '20%',
-     // page: '/smallPapo'
+      page: '/smallPapo'
     }
   ];
 

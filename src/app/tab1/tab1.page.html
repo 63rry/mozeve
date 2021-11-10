@@ -11,7 +11,7 @@
 
   <ion-list>
     <ion-item-sliding *ngFor="let evento of listaEvento">
-    <ion-item lines="full">
+    <ion-item lines="full" [routerLink]="evento.page">
       <ion-thumbnail item-start>
         <img [src]="evento.imagem">
       </ion-thumbnail>

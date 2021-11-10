@@ -5,5 +5,6 @@ export interface IEvento {
   imagem: string;
   local: string[];
   disponibilidade: string;
+  page?: string
 
 }
